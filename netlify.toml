@@ -1,8 +1,3 @@
-[build]
- publish = "dist"
-
-# --- SECTOR REDIRECCIONES: INTENCIONES SEMÁNTICAS ---
-
 [[redirects]]
   from = "/crear-herramientas"
   to = "https://systeme.io/?sa=sa0140228318fa09935dca0f339cf9e96fbd2f3972"
@@ -47,6 +42,3 @@
   from = "/automatizaciones-ia"
   to = "https://go.fiverr.com/visit/?brand=fiverrcpa&landing=https%3A%2F%2Fes.fiverr.com%2Fcategories%2Fprogramming-tech%2Fai-integrations"
   status = 301
-
-
-  
