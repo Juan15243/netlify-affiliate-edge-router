@@ -6,8 +6,54 @@ path = "/*"
 function = "router"
 
 [build]
-  publish = "dist"
+ publish = "dist"
 
+# --- SECTOR REDIRECCIONES: INTENCIONES SEMÁNTICAS ---
+
+[[redirects]]
+  from = "/crear-herramientas"
+  to = "https://systeme.io/?sa=sa0140228318fa09935dca0f339cf9e96fbd2f3972"
+  status = 301
+
+[[redirects]]
+  from = "/automatizar-negocio"
+  to = "https://systeme.io/?sa=sa0140228318fa09935dca0f339cf9e96fbd2f3972"
+  status = 301
+
+[[redirects]]
+  from = "/herramientas-ia"
+  to = "https://arcad.ia/partner/modoia"
+  status = 301
+
+[[redirects]]
+  from = "/contratar-expertos"
+  to = "https://go.fiverr.com/visit/?bpc=1&brand=fiverrcpa&landing=https%3F%2F%2Fes.fiverr.com%2Fcategories%2Fprogramming-tech%2Fai-applications"
+  status = 301
+
+[[redirects]]
+  from = "/auditoria-seo"
+  to = "https://go.fiverr.com/visit/?brand=fiverrhybrid&landing=https%3A%2F%2Fes.fiverr.com%2Fcategories%2Fonline-marketing%2Fseo"
+  status = 301
+
+[[redirects]]
+  from = "/desarrollo-web"
+  to = "https://go.fiverr.com/visit/?brand=fiverrcpa&landing=https%3A%2F%2Fes.fiverr.com%2Fcategories%2Fprogramming-tech%2Fwebsite-development"
+  status = 301
+
+[[redirects]]
+  from = "/diseno-funnels"
+  to = "https://go.fiverr.com/visit/?brand=fiverrcpa&landing=https%3A%2F%2Fes.fiverr.com%2Fsearch%2Fgigs%3Fquery%3Dsales%2520funnel"
+  status = 301
+
+[[redirects]]
+  from = "/edicion-vsl"
+  to = "https://go.fiverr.com/visit/?brand=fiverrcpa&landing=https%3A%2F%2Fes.fiverr.com%2Fcategories%2Fvideo-animation%2Fvideo-editing"
+  status = 301
+
+[[redirects]]
+  from = "/automatizaciones-ia"
+  to = "https://go.fiverr.com/visit/?brand=fiverrcpa&landing=https%3A%2F%2Fes.fiverr.com%2Fcategories%2Fprogramming-tech%2Fai-integrations"
+  status = 301
 
 
   
